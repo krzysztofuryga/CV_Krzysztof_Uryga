@@ -1,0 +1,50 @@
+.bio-title {
+    font-size: 45px;
+    line-height: 2;
+    margin-bottom: 20px;
+  }
+  
+  .bio-occupation {
+    margin-bottom: 27px;
+  }
+  
+  .bio-title ,
+  .bio-occupation {
+    color: #2a2a2a;
+  }
+  
+  .bio-occupation,
+  .bio-about {
+    font-size: 14px;
+    line-height: 1.714;
+  }
+  
+  .bio-about {
+    color: #595959;
+  }
+
+  .projects-title {
+    font-size: 22px;
+    line-height: 1.091;
+    color: #2a2a2a;
+    margin-bottom: 14px;
+}
+
+  .projects-link {
+    font-size: 14px;
+    line-height: 1.714;
+    color: #220fdc;
+}
+
+   .projects-link:hover {
+    color: #ff6b08;
+}
+
+  .contacts-link {
+    color: #595959;
+    text-decoration: none;
+  }
+
+  .contacts-link:hover {
+    color: #ff6b08;
+  }
